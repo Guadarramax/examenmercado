@@ -14,10 +14,10 @@ Este proyecto es un script en Python que utiliza requests y BeautifulSoup para e
 
 1. Python 3.7 o superior.
 2. librerías necesarias:
-   - "BeautifulSoup":
+   Instalar "BeautifulSoup":
      pip install requests beautifulsoup4
 
 # 3 Clonar repositorio:
 
 https://github.com/Guadarramax/examenmercado.git
-
+   - git clone https://github.com/Guadarramax/examenmercado.git
