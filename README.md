@@ -17,7 +17,7 @@ Este proyecto es un script en Python que utiliza requests y BeautifulSoup para e
    - "BeautifulSoup":
      pip install requests beautifulsoup4
 
-# 3 Clonar repositorio
+# 3 Clonar repositorio:
 
 https://github.com/Guadarramax/examenmercado.git
 
